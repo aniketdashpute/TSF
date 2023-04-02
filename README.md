@@ -23,3 +23,7 @@ Inside the ```classification``` directory, run the python file ```generateTraini
 ## Issues
 
 Please contact the authors or raise an issue on github if something seems broken or does not work, thanks!
+
+aniket dot d at rice dot edu
+
+vishwanath dot saragadam at rice dot edu
