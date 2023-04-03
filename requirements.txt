@@ -1,0 +1,14 @@
+# optimization
+numpy
+torch
+scipy
+# plotting
+matplotlib
+# config parser
+ConfigArgParse
+# observing plots (optiona)
+wandb
+# needed to run jupyter notebooks (optional)
+ipython
+ipykernel
+jupyter
