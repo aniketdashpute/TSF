@@ -19,4 +19,3 @@ Aniket Dashpute<sup>1,3</sup>, Vishwanath Saragadam<sup>3</sup>, Emma Alexander<
 
 [Code](https://github.com/aniketdashpute/TSF)
 
-[Video](https://youtu.be/zRQEGP3k3RA)
