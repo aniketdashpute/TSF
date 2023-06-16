@@ -4,7 +4,7 @@
 
 ![Image-2](https://github.com/aniketdashpute/TSF/assets/52461513/041d3de1-faf4-4059-8aca-8082ad814138)
 
-### Finite Difference for the Inverse Problem
+### Finite Differences approach for the Inverse Problem
 
 ![Fig_FD_Recovery](https://github.com/aniketdashpute/TSF/assets/52461513/5b42c069-efa1-4bbd-a591-afbd5905c609)
 
