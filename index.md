@@ -42,9 +42,9 @@ Aniket Dashpute<sup>1,3</sup>, Vishwanath Saragadam<sup>3</sup>, Emma Alexander<
 </div>
 
 <div class="btn-group btn-group-lg">
-  <a href="https://github.com/aniketdashpute/TSF" class="btn btn-lg" role="button" target="_blank">Code</a>
-  <button type="button" class="btn btn-primary">Paper</button>
-  <button type="button" class="btn btn-primary">Code</button>
+  <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Dashpute_Thermal_Spread_Functions_TSF_Physics-Guided_Material_Classification_CVPR_2023_paper.pdf" class="btn btn-primary" role="button" target="_blank">PDF</a>
+  <a href="https://github.com/aniketdashpute/TSF" class="btn btn-primary" role="button" target="_blank">Code</a>
+  <a href="" class="btn btn-primary" role="button" target="_blank" >Supplementary Material</a>
   <button type="button" class="btn btn-primary">Project Page</button>
 </div>
 
