@@ -24,6 +24,16 @@
   <img src="https://github.com/aniketdashpute/TSF/assets/52461513/5b42c069-efa1-4bbd-a591-afbd5905c609" width = 600/>
 </p>
 
+### Classification based on recovered thermal properties
+
+- We use the extracted thermal properties to train an MLP-based classifier for identifying a new material
+
+<p float="middle">
+  <img src="https://github.com/aniketdashpute/TSF/assets/52461513/134a2019-9d4c-46a9-b766-5324d1d86f20" width = 600/>
+  <img src="https://github.com/aniketdashpute/TSF/assets/52461513/3933f506-34b9-4393-af4d-357d4ddf79c7" width = 600/>
+</p>
+
+
 ------------------------------
 
 Aniket Dashpute<sup>1,3</sup>, Vishwanath Saragadam<sup>3</sup>, Emma Alexander<sup>2</sup>, Florian Willomitzer<sup>4</sup>, Aggelos Katsaggelos<sup>1</sup>, Ashok Veeraraghavan<sup>3</sup>, Oliver Cossairt<sup>1,2</sup>
