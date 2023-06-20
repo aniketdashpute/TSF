@@ -6,6 +6,8 @@
   <a href="https://openaccess.thecvf.com/content/CVPR2023/supplemental/Dashpute_Thermal_Spread_Functions_CVPR_2023_supplemental.pdf" class="btn btn-primary" role="button" target="_blank" >Supplementary Material</a>
 </div>
 
+------------------------------
+
 ### Thermal Spread Function (TSF)
 
 - Heating-Cooling creates unique spatio-temporal curves that are unique to each material
