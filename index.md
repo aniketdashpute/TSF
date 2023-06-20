@@ -1,7 +1,5 @@
 # Thermal Spread Functions (TSF): Physics-guided Material Classification
 
-![Image-2](https://github.com/aniketdashpute/TSF/assets/52461513/2d8b1170-0607-4690-865e-15d5d55bf9b3)
-
 ![Image-2](https://github.com/aniketdashpute/TSF/assets/52461513/041d3de1-faf4-4059-8aca-8082ad814138)
 
 ### Finite Differences approach for the Inverse Problem
