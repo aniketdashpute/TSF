@@ -1,11 +1,16 @@
 # Thermal Spread Functions (TSF): Physics-guided Material Classification
 
-![Image-2](https://github.com/aniketdashpute/TSF/assets/52461513/041d3de1-faf4-4059-8aca-8082ad814138)
+<p float="middle">
+  <img src="https://github.com/aniketdashpute/TSF/assets/52461513/041d3de1-faf4-4059-8aca-8082ad814138" width = 500/>
+</p>
 
 ### Finite Differences approach for the Inverse Problem
 
-![Fig_FD_Recovery](https://github.com/aniketdashpute/TSF/assets/52461513/5b42c069-efa1-4bbd-a591-afbd5905c609)
+<p float="middle">
+  <img src="https://github.com/aniketdashpute/TSF/assets/52461513/5b42c069-efa1-4bbd-a591-afbd5905c609" width = 500/>
+</p>
 
+![Fig_FD_Recovery](https://github.com/aniketdashpute/TSF/assets/52461513/5b42c069-efa1-4bbd-a591-afbd5905c609)
 
 Aniket Dashpute<sup>1,3</sup>, Vishwanath Saragadam<sup>3</sup>, Emma Alexander<sup>2</sup>, Florian Willomitzer<sup>4</sup>, Aggelos Katsaggelos<sup>1</sup>, Ashok Veeraraghavan<sup>3</sup>, Oliver Cossairt<sup>1,2</sup>
 
