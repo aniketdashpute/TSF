@@ -42,6 +42,7 @@ Aniket Dashpute<sup>1,3</sup>, Vishwanath Saragadam<sup>3</sup>, Emma Alexander<
 </div>
 
 <div class="btn-group btn-group-lg">
+  <a href="https://github.com/aniketdashpute/TSF" class="btn btn-lg" role="button" target="_blank">Code</a>
   <button type="button" class="btn btn-primary">Paper</button>
   <button type="button" class="btn btn-primary">Code</button>
   <button type="button" class="btn btn-primary">Project Page</button>
